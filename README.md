@@ -1,5 +1,4 @@
-# EdX_AI
-ColumbiaX: CSMM.101x Artificial Intelligence (AI)
+# ColumbiaX: CSMM.101x Artificial Intelligence (AI)
 
 Project 1: N-puzzle solver using bfs, dfs, a-star or ida
 
